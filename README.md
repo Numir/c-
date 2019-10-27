@@ -1,1 +1,1 @@
-# c-
+# crypt nedir, neden uygulanır..
